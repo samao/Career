@@ -1,0 +1,4 @@
+*.flash linguist-language = actionscript
+*.js linguist-language = javascript
+*.ts linguist-language = typescript
+*.less linguist-language = less
