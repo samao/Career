@@ -1,4 +1,4 @@
-*.flash actionscript
-*.js javascript
-*.ts typescript
-*.less less
+*.flash -actionscript
+*.js -javascript
+*.ts -typescript
+*.less -less
