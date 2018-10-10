@@ -1,4 +1,4 @@
-*.flash -actionscript
-*.js -javascript
-*.ts -typescript
-*.less -less
+*.flash linguist-language=Actionscript
+*.js linguist-language=Javascript
+*.ts linguist-language=Typescript
+*.less linguist-language=Actionscript
